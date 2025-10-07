@@ -1,4 +1,4 @@
-#Northern bank holdays
+#Northern Ireland bank holdays
 #Author: Anna Lozenko
 
 import requests 
